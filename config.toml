@@ -28,3 +28,7 @@ theme = 'iutdelens'
     authorImage = "/images/nounours_ce-pédo_adoré.jpg"
 
 paginate = 6
+
+[[menu.main]]
+    name = "Catégories"
+    url = "/categories"

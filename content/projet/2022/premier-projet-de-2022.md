@@ -1,6 +1,6 @@
 ---
 title: "Mon premier projet de l'année 2022" 
-date: 2022-04-29T11:13:57+02:00
+date: 2022-04-29 T11:13:57+02:00
 draft: false
 ---
 ## Nouveau projet
