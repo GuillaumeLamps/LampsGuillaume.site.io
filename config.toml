@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://LampsGuillaume.site.io/'
 languageCode = 'en-us'
 title = 'Guillaume Lamps'
 theme = 'iutdelens'
