@@ -18,6 +18,6 @@ jobs:
       env:
       HUGO_VERSION: 0.99.0
       HUGO_EXTENDED: true
-      TARGET_REPO: mmasquelin/mmasquelin.github.io
+      TARGET_REPO: GuillaumeLamps/LampsGuillaume.site.io
       TARGET_BRANCH: gh-pages
       TOKEN: ${{ secrets.HUGO_SECRET_TOKEN }}
